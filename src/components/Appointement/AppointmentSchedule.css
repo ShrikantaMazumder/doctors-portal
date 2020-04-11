@@ -1,0 +1,40 @@
+.appointmentTime{
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 5px lightgrey;
+    padding: 30px 10px;
+    text-align: center;
+    margin-top: 40px;
+}
+.appointmentTime h3{
+    color: #00d2d3;
+}
+.appointmentTime small{
+    color: gray;
+}
+.bookNow{
+    color: #ffffff;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    padding: 12px 20px;
+    background-image: linear-gradient(to right, #00d2d3 , #54a0ff);
+    cursor: pointer;
+}
+#bookAppointment{
+    text-align: center;
+    padding: 10px 50px;
+}
+#bookAppointment input{
+    width: 450px;
+}
+#bookAppointment #title {
+    color: #00d2d3;;
+}
+#bookAppointment .submit{
+    float: right;
+    border: none;
+    background-image: linear-gradient(to right, #00d2d3 , #54a0ff);
+    padding: 10px 40px;
+    font-weight: 700;
+    color: white;
+}

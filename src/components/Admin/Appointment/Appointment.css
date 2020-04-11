@@ -1,0 +1,19 @@
+.doctor-appointment-section{
+
+}
+.right-side {
+    background-color: white;
+    padding: 50px;
+    border-radius: 5px;
+}
+.right-side .view {
+    border: none;
+    background-image: linear-gradient(to right, #00d2d3 , #54a0ff);
+    padding: 6px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.left-side .react-calender {
+    border: none;
+}

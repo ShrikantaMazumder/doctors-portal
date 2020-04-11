@@ -1,0 +1,16 @@
+.header-section{
+    font-size: 20px;
+    padding: 40px 0;
+}
+.header-section .top-menu{
+    float: right;
+}
+.header-section a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: gray;
+}
+.header-section a:hover{
+    text-decoration: none;
+    cursor: pointer;
+}

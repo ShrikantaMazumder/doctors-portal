@@ -1,0 +1,76 @@
+.MuiSvgIcon-root{
+    color: white;
+}
+.dashboard {
+    background-color: #e7f6f8;
+    padding: 20px;
+}
+.static-section {
+    margin-top: 40px;
+}
+.statics{
+    padding: 15px;
+    border-radius: 8px;
+    color: white;
+}
+.statics .number{
+    font-weight: 700;
+}
+.statics .service{
+    padding: 10px;
+}
+.pending-appointment{
+    background-color: #e84118;
+}
+.today-appointment{
+    background-color: #00a8ff;
+}
+.total-appointment{
+    background-color: #2ecc71;
+}
+.total-patient{
+    background-color: #f39c12;
+}
+.recent-appointment{
+    margin: 50px 20px;
+    background-color: white;
+    padding: 40px;
+    width: 100%;
+    border-radius: 5px;
+}
+.table {
+    text-align: center;
+}
+.recent-appointment .view{
+    border: none;
+    background-image: linear-gradient(to right, #00d2d3 , #54a0ff);
+    padding: 6px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.recent-appointment .pending {
+    border: none;
+    background-color: #16a085;
+    padding: 6px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    margin-right: 5px;
+}
+.recent-appointment .edit-icon {
+    border: none;
+    background-color: goldenrod;
+    padding: 4px 10px;
+    border-radius: 5px;
+    color: white;
+}
+.recent-appointment table th{
+    color: grey;
+}
+.recent-appointment table td{
+    font-weight: bold;
+}
+.table {
+    border: none;
+}
