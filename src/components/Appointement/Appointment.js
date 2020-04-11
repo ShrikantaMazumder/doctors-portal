@@ -12,7 +12,7 @@ const Appointment = () => {
     const [appointments,setAppointments] = useState([]);
     const onChange = date => setDate(date);
     useEffect(() => {
-        fetch('http://localhost:4000/all-appointments')
+        fetch('https://morning-beach-13853.herokuapp.com/all-appointments')
         .then(res => res.json())
         .then(data => setAppointments(data))
     },[])
